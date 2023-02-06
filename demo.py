@@ -84,7 +84,7 @@ def main():
     tk.Label(root, text='Total number of km to be Travelled:',  bd=6).grid(row=4, column=0,pady=(3,3))
     name2 = tk.Entry(root,text=' ',width=25)
     name2.grid(row=4, column = 2,sticky=W)
-    name2.bind("<Return>", on_change)
+    name2.bind("<Return>", on_change2)
     root.mainloop()
 
 
