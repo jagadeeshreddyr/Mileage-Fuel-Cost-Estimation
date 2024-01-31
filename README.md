@@ -65,3 +65,6 @@ This is a simple GUI application built using Tkinter in Python for calculating m
 - Fuel price data sourced from [Economic Times](https://economictimes.indiatimes.com/wealth/fuel-price/petrol).
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
